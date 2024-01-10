@@ -36,6 +36,7 @@ A subset is any set of elements from the original array or string. The order doe
     1. If you are including `i`, the formula is `prefix_sum_arr[i] - prefix_sum_arr[j] + arr[i]`.
     2. If you are not including `i`, the formula is `prefix_sum[i] - prefix_sum[j]`
 - In sliding window, you do not always need a whole array to track things, you can slide the window in programs that require summation for example by just subtracting from the left and adding to the right. You do not need an array to do this.
+- Formula to calculate the length of a window is: `right_pointer - left_pointer + 1`
 
 ## What does Amortized Time Complexity mean?
 Amortized analysis is a method used in computer science to find an average running time per operation over a sequence of operations, even though a single operation within the sequence might have a worst-case running time. In simpler terms, it's a way to average out the cost of expensive operations over many cheap ones. The term "amortized O(n)" means that over a series of n operations, the average time per operation is O(n), even if some individual operations may take longer.
