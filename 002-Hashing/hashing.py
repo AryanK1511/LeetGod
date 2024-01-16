@@ -1,5 +1,4 @@
 # Given an array of integers nums and an integer target, return indices of two numbers such that they add up to target. You cannot use the same index twice.
-
 def two_sum(nums, target):
     d = {}
     for i in range(len(nums)):
@@ -15,7 +14,6 @@ print(two_sum(nums, target))
 print("============")
 
 # Given a string s, return the first character to appear twice. It is guaranteed that the input will have a duplicate character.
-
 def repeated_character_slow(s):
     char_count = {}
     for i in range(len(s)):
@@ -42,7 +40,6 @@ print("============")
 
 # A pangram is a sentence where every letter of the English alphabet appears at least once.
 # Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
-
 def check_if_pangram(sentence):
     seen_words = set(sentence)
     return len(seen_words) == 26
@@ -52,7 +49,6 @@ print(check_if_pangram(sentence))
 print("============")
 
 # Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
-
 def missing_number(nums):
     nums_set = set(nums)
     n = len(nums) + 1
@@ -65,7 +61,6 @@ print(missing_number(nums))
 print("============")
 
 # Given an integer array arr, count how many elements x there are, such that x + 1 is also in arr. If there are duplicates in arr, count them separately.
-
 def count_elements(arr):
     arr_set = set(arr)
     count = 0
