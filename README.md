@@ -2,9 +2,15 @@
 
 Collection of DSA Leetcode Questions.
 
-If you are interested to view my DSA notes, I have a seperate repo on GitHub for that [here](https://github.com/AryanK1511/Data-Structures-and-Algorithms-in-Python).
+## Links
+- [Leetcode Profile](https://leetcode.com/AryanK1511/)
+- [DSA Notes Repository](https://github.com/AryanK1511/Data-Structures-and-Algorithms-in-Python)
 
-## Remarks
-Feel free to clone this repo and solve some of the questions yourselves to get better practice.
+## 100 Days of Code Challenge
 
-**My Leetcode Profile:** [AryanK1511](https://leetcode.com/AryanK1511/)
+|Day #|Date|Topics covered and description|
+|---|---|---|
+|Day 1|17 February 2024||
+
+## Author
+[Aryan Khurana](https://github.com/AryanK1511)
