@@ -10,7 +10,7 @@ Collection of DSA Leetcode Questions.
 
 |Day #|Date|Topics covered and description|
 |---|---|---|
-|Day 1|17 February 2024||
+|**Day 1**|`17 February 2024`||
 
 ## Author
 [Aryan Khurana](https://github.com/AryanK1511)
