@@ -1,6 +1,6 @@
 # Leetcode Data Structures and Algorithms
 
-Collection of some leetcode questions that I solved to learn DSA.
+Collection of DSA Leetcode Questions.
 
 If you are interested to view my DSA notes, I have a seperate repo on GitHub for that [here](https://github.com/AryanK1511/Data-Structures-and-Algorithms-in-Python).
 
