@@ -10,7 +10,7 @@ Collection of DSA Leetcode Questions.
 
 |Day #|Date|Topics covered and description|
 |---|---|---|
-|**Day 1**|`17 February 2024`||
+|**Day 1**|`17 February 2024`|Solved some basic arrays and strings questions. Covered concepts such as two pointers and sliding window.|
 
 ## Author
 [Aryan Khurana](https://github.com/AryanK1511)
