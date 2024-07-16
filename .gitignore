@@ -1,1 +1,97 @@
-.ipynb_checkpoints
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Jupyter Notebook metadata
+*.nbpy
+
+# Python files
+*.py[cod]
+*.so
+*.dylib
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyproj
+*.sln
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Virtualenv
+#  Ideally, only include this directory if you have setup.py files to support it.
+#  Either way, you may want to look at the 'use-virtualenv' git attribute below.
+*.env
+.venv/
+env/
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyre
+.pyre/
