@@ -1,6 +1,6 @@
 # Leetcode Data Structures and Algorithms
 
-Collection of DSA Leetcode Questions.
+Collection of DSA Leetcode practice questions.
 
 ## Links
 - [Leetcode Profile](https://leetcode.com/AryanK1511/)
