@@ -2,7 +2,7 @@
 
 Collection of DSA Leetcode practice questions.
 
-## Links and Resources
+## Links & Resources
 - [Leetcode Profile](https://leetcode.com/AryanK1511/)
 - [DSA Notes Repository](https://github.com/AryanK1511/Data-Structures-and-Algorithms-in-Python)
 - [Leetcode Course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
