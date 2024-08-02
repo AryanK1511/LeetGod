@@ -1,4 +1,4 @@
-# Leetcode Data Structures and Algorithms
+# Leetcode Data Structures and Algorithms Practice
 
 Collection of DSA Leetcode practice questions.
 
